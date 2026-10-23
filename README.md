@@ -32,3 +32,10 @@ node scripts/test-toolkit.mjs
 ```
 
 The smoke test copies the template, installs dependencies, checks and builds it, then tests the production server. See [LICENSE](LICENSE).
+
+## License
+
+Site-Bootstrap-ADM is licensed under the [PolyForm Shield License 1.0.0](LICENSE).
+Commercial use is permitted when it complies with that license. For uses not
+permitted by PolyForm Shield, see [commercial licensing](COMMERCIAL.md).
+Third-party components keep their own licenses.
